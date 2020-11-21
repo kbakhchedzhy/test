@@ -8,3 +8,4 @@ print(20)
 print('issue53')
 
 print('1')
+print('2')
