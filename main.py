@@ -6,3 +6,5 @@ print("Hello Develop")
 print(20)
 
 print('issue53')
+
+print('1')
