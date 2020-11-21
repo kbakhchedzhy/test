@@ -9,3 +9,5 @@ print('issue53')
 
 print('1')
 print('2')
+
+print("issue75")
