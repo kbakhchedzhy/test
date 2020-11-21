@@ -11,3 +11,4 @@ print('1')
 print('2')
 
 print("issue75")
+print(3)
